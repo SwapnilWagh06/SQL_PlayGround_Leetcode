@@ -1,5 +1,6 @@
 # SQL_PlayGround_Leetcode
 <!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## Database
 |  |
